@@ -1,0 +1,33 @@
+header {
+  background-color: #0d1f5c;
+  padding: 20px 0;
+  font-family: "Press Start 2P", cursive;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  color: white;
+  font-size: 2em;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2em;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #ffcc00;
+}

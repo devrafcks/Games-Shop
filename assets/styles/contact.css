@@ -1,0 +1,48 @@
+.contato {
+  margin-top: 60px;
+}
+
+.contato h2,
+.contato h3 {
+  color: #2d2d9c;
+  font-family: "Press Start 2P", cursive;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.contato input,
+.contato textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 13px;
+  border: 1px solid #999;
+  border-radius: 5px;
+}
+
+.contato button {
+  width: 100%;
+  font-size: 1.1em;
+  padding: 10px 20px;
+  background-color: #0d1f5c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.redes-endereco {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.redes {
+  gap: 10px;
+}
+
+
+.redes img {
+  justify-content: center;
+  width: 35px;
+  margin-right: 10px;
+}

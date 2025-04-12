@@ -1,0 +1,22 @@
+.sobre {
+  display: flex;
+  align-items: center;;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.sobre h2 {
+  color: #2d2d9c;
+  font-family: "Press Start 2P", cursive;
+  font-size: 1.3em;
+  margin-bottom: 20px;
+}
+
+.sobre p {
+  margin-bottom: 15px;
+}
+
+.logos img {
+  margin-right: 10px;
+  height: 30px;
+}
