@@ -5,7 +5,7 @@
 
 **Games Shop** é uma landing page estática desenvolvida como parte do curso de **Engenheiro Front-End** da [EBAC](https://ebaconline.com.br).  
 O projeto simula uma loja de videogames com um layout visualmente atraente, navegação intuitiva e organização de conteúdo por seções.
-
+https://games-shop-eosin.vercel.app/
 ---
 
 ## 🖼️ Visão Geral
